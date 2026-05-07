@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Coder: Autonomous Agent",
+  "description": "A fully functional autonomous AI Coding Agent built from scratch, capable of exploring, analyzing, and fixing codebases using the Gemini Flash API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
